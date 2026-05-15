@@ -1,0 +1,26 @@
+src/dropdown/select.tsx
+  h_3070dc1062bb3b 1,40-42,44-45,56,61-129,172-173,213
+src/dropdown/__tests__/dropdown.test.tsx
+  s_28b0f9d94048c3::t_8bdbec88d4045f 310-311,350,352
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "6e3e64120988bac3edbfa82445ece3ab1a0f7dc1",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_28b0f9d94048c3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1d5316b41ffegndoQaeCUNnY2i",
+        "model": "big-pickle"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
