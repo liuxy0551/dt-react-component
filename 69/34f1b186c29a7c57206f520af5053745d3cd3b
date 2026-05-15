@@ -1,0 +1,24 @@
+src/tinyTag/index.tsx
+  s_28b0f9d94048c3::t_08951f6ba431db 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "6934f1b186c29a7c57206f520af5053745d3cd3b",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_28b0f9d94048c3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1d5316b41ffegndoQaeCUNnY2i",
+        "model": "big-pickle"
+      },
+      "human_author": null
+    }
+  }
+}
