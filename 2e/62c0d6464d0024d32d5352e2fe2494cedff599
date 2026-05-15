@@ -1,0 +1,14 @@
+src/tinyTag/index.tsx
+  h_3070dc1062bb3b 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "2e62c0d6464d0024d32d5352e2fe2494cedff599",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
