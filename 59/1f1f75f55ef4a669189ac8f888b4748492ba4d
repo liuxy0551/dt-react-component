@@ -1,0 +1,20 @@
+src/blockHeader/__tests__/blockHeader.test.tsx
+  s_28b0f9d94048c3::t_0f4ba44c39e472 141-144,146
+  s_28b0f9d94048c3::t_2dea0a3cb9a1b0 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "591f1f75f55ef4a669189ac8f888b4748492ba4d",
+  "prompts": {},
+  "sessions": {
+    "s_28b0f9d94048c3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1d5316b41ffegndoQaeCUNnY2i",
+        "model": "big-pickle"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
