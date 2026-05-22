@@ -1,0 +1,14 @@
+.dumi/pages/index/index.tsx
+  h_3070dc1062bb3b 5,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "b5dac303c4a7de2f1d405d66b2809e32c06ca5e1",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
