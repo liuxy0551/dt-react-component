@@ -1,0 +1,16 @@
+src/blockHeader/demos/expand.tsx
+  h_3070dc1062bb3b 16
+src/blockHeader/index.md
+  h_3070dc1062bb3b 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ef0bea8da17ce9f8a560596aebf6f9d2b20f168b",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
